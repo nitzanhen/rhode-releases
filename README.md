@@ -18,6 +18,13 @@ To install, download and run the installer from the [latest release page](https:
 
 ## Some media
 
+### Start Screen
+<img width="1504" height="1004" alt="Rhode Start Screen" src="https://github.com/user-attachments/assets/b77a7bb1-4758-4fff-a4a5-add1654bc30f" />
+
+### Editor
+<img alt="Screenshot 2026-09-14 022508" src="https://github.com/user-attachments/assets/df2b768d-9736-46b7-989a-4f37ce4455d7" />
+<img alt="Screenshot 2026-09-14 022735" src="https://github.com/user-attachments/assets/e7b3c838-7d79-491f-bbe8-0938354ff658" />
+
 ## What's the idea?
 The motivation for creating a RTL-focused LaTeX editor is straightforward: most popular editors today (e.g. Overleaf, LyX or VSCode with the LaTeX Workshop extension) have poor support for writing in right-to-left languages.
 This is not a simple issue to overcome, since LaTeX syntax is itself written in English, and handling bidirectional text involves handling many subtle points (this is difficult, by the way, not only on the technical level -- with bidirectional text, it's often not even clear what a good solution is supposed to look like). However, a simple, intuitive RTL writing experience can be achieved if care is taken throughout -- and with Rhode I aim to achieve that.
